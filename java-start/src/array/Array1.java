@@ -7,7 +7,13 @@ public class Array1 {
         int student3 = 70;
         int student4 = 60;
         int student5 = 50;
-        System.out.println("학생1 점수: " + student1); System.out.println("학생2 점수: " + student2); System.out.println("학생3 점수: " + student3); System.out.println("학생4 점수: " + student4); System.out.println("학생5 점수: " + student5);
+        int student6 = 40;
 
-
+        System.out.println("student1 = " + student1);
+        System.out.println("student2 = " + student2);
+        System.out.println("student3 = " + student3);
+        System.out.println("student4 = " + student4);
+        System.out.println("student5 = " + student5);
+        System.out.println("student6 = " + student6);
     }
+}
