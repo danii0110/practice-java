@@ -9,12 +9,8 @@ public class ClassStart1 {
         String student2Name = "학생2";
         int student2Age = 16;
         int student2Grade = 80;
+
+        System.out.println("이름:" + student1Name + " 나이:" + student1Age + " 성적:" + student1Grade);
+        System.out.println("이름:" + student2Name + " 나이:" + student2Age + " 성적:" + student2Grade);
     }
-//    public static void main(String[] args) {
-//        showInfo("학생1", 15, 90);
-//        showInfo("학생2", 16, 80);
-//    }
-//    public static void showInfo (String name, int age, int score) {
-//        System.out.println("이름: " + name + " 나이: " + age + " 성적: " + score);
-//    }
 }
